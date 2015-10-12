@@ -4,13 +4,6 @@ var App = require('app')
 
 var mainWindow = null;
 
-// Quit when all windows are closed.
-App.on('window-all-closed', function() {
-  if (process.platform != 'darwin') {
-    app.quit();
-  }
-});
-
 App.on('ready', function() {
     mainWindow = new BrowserWindow({
         width: 200
