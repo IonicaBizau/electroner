@@ -1,0 +1,27 @@
+{
+  "name": "electroner",
+  "version": "1.0.0",
+  "description": "Start ElectronJS apps from Node.js.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IonicaBizau/electroner.git"
+  },
+  "keywords": [
+    "electronjs",
+    "electron",
+    "spawner"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "KINDLY",
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/electroner/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/electroner#readme"
+}
