@@ -13,6 +13,8 @@
 <!-- * * * Thanks! * * *                                                    -->
 <!---------------------------------------------------------------------------->
 
+[![electroner](http://i.imgur.com/z3xjvS3.png)](#)
+
 # electroner [![Donate now][donate-now]][paypal-donations]
 
 Start ElectronJS apps from Node.js.
