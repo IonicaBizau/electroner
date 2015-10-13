@@ -23,5 +23,13 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/electroner/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/electroner#readme"
+  "homepage": "https://github.com/IonicaBizau/electroner#readme",
+  "blah": {
+    "h_img": "http://i.imgur.com/z3xjvS3.png"
+  },
+  "dependencies": {
+    "electron-prebuilt": "^0.33.7",
+    "oargv": "^2.0.0"
+  },
+  "devDependencies": {}
 }
