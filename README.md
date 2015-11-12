@@ -7,7 +7,7 @@ Start ElectronJS apps from Node.js.
 ## Installation
 
 ```sh
-$ npm i -g electroner
+$ npm i electroner
 ```
 
 ## Example
