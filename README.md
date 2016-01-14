@@ -1,8 +1,8 @@
 [![electroner](http://i.imgur.com/z3xjvS3.png)](#)
 
-# electroner [![Support this project][donate-now]][paypal-donations]
+# electroner [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/electroner.svg)](https://www.npmjs.com/package/electroner) [![Downloads](https://img.shields.io/npm/dt/electroner.svg)](https://www.npmjs.com/package/electroner) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
-Start ElectronJS apps from Node.js.
+> Start ElectronJS apps from Node.js.
 
 ## Installation
 
