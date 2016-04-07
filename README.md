@@ -4,28 +4,31 @@
 
 > Start ElectronJS apps from Node.js.
 
-## Installation
-
+## :cloud: Installation
+    
 ```sh
 $ npm i --save electroner
 ```
 
-## Example
+            
+## :clipboard: Example
+
+        
 
 ```js
-// Dependencies
-var Electroner = require("electroner");
+const electroner = require("electroner");
 
 // Start the Electron app
-Electroner(__dirname + "/app/index.js", {
+electroner(`${__dirname}/app/index.js`, {
      "enable-transparent-visuals": true
    , "disable-cpu": true
 });
 ```
-
-## Documentation
-
-### `Electroner(options, callback)`
+    
+## :memo: Documentation
+        
+### `electroner(options, callback)`
+Starts the Electron process.
 
 #### Params
 - **Object** `options`: The path to the main script or an object interpreted by [`oargv`](https://github.com/IonicaBizau/node-oargv) and optional fields:
@@ -37,16 +40,14 @@ Electroner(__dirname + "/app/index.js", {
 #### Return
 - **Process** The Electron process.
 
-## How to contribute
+        
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
-If you are using this library in one of your projects, add it in this list. :sparkles:
-
-## License
-
+## :scroll: License
+    
 [MIT][license] © [Ionică Bizău][website]
-
+    
 [paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVXDDLKKLQRJW
 [donate-now]: http://i.imgur.com/6cMbHOC.png
 
