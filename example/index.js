@@ -1,8 +1,7 @@
-// Dependencies
-var Electroner = require("../lib");
+const electroner = require("../lib");
 
 // Start the Electron app
-Electroner(__dirname + "/app/index.js", {
+electroner(__dirname + "/app/index.js", {
      "enable-transparent-visuals": true
    , "disable-cpu": true
 });
