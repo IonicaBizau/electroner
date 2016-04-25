@@ -1,3 +1,4 @@
+
 [![electroner](http://i.imgur.com/z3xjvS3.png)](#)
 
 # electroner [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/electroner.svg)](https://www.npmjs.com/package/electroner) [![Downloads](https://img.shields.io/npm/dt/electroner.svg)](https://www.npmjs.com/package/electroner) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
@@ -5,15 +6,15 @@
 > Start ElectronJS apps from Node.js.
 
 ## :cloud: Installation
-    
+
 ```sh
 $ npm i --save electroner
 ```
 
-            
+
 ## :clipboard: Example
 
-        
+
 
 ```js
 const electroner = require("electroner");
@@ -24,9 +25,10 @@ electroner(`${__dirname}/app/index.js`, {
    , "disable-cpu": true
 });
 ```
-    
+
 ## :memo: Documentation
-        
+
+
 ### `electroner(options, callback)`
 Starts the Electron process.
 
@@ -40,14 +42,21 @@ Starts the Electron process.
 #### Return
 - **Process** The Electron process.
 
-        
+
+
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
+## :dizzy: Where is this library used?
+If you are using this library in one of your projects, add it in this list. :sparkles:
+
+
+ - [`photon-browser`](https://github.com/IonicaBizau/photon-browser#readme)—A tiny web browser based on Photon and Electron.
+
 ## :scroll: License
-    
+
 [MIT][license] © [Ionică Bizău][website]
-    
+
 [paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVXDDLKKLQRJW
 [donate-now]: http://i.imgur.com/6cMbHOC.png
 
