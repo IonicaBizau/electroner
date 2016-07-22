@@ -25,10 +25,10 @@
   },
   "homepage": "https://github.com/IonicaBizau/electroner#readme",
   "blah": {
-    "h_img": "http://i.imgur.com/z3xjvS3.png"
+    "h_img": "http://i.imgur.com/z3xjvS3.png",
+    "description": ":bulb: If you're using **`3.x.x`**, you have to manually install `electron-prebuilt` since this is not a dependency of `electroner` anymore, but it is used by it."
   },
   "dependencies": {
-    "electron-prebuilt": "latest",
     "oargv": "^3.4.1",
     "spawno": "^1.0.0"
   },

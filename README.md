@@ -7,6 +7,8 @@
 
 > Start ElectronJS apps from Node.js.
 
+:bulb: If you're using **`3.x.x`**, you have to manually install `electron-prebuilt` since this is not a dependency of `electroner` anymore, but it is used by it.
+
 ## :cloud: Installation
 
 ```sh
@@ -49,6 +51,11 @@ Starts the Electron process.
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
+## :dizzy: Where is this library used?
+If you are using this library in one of your projects, add it in this list. :sparkles:
+
+
+ - [`photon-browser`](https://github.com/IonicaBizau/photon-browser#readme)—A tiny web browser based on Photon and Electron.
 
 ## :scroll: License
 
