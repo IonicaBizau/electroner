@@ -1,6 +1,6 @@
 {
   "name": "electroner",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "Start ElectronJS apps from Node.js.",
   "main": "lib/index.js",
   "directories": {
@@ -26,7 +26,7 @@
   "homepage": "https://github.com/IonicaBizau/electroner#readme",
   "blah": {
     "h_img": "http://i.imgur.com/z3xjvS3.png",
-    "description": ":bulb: If you're using **`3.x.x`**, you have to manually install `electron-prebuilt` since this is not a dependency of `electroner` anymore, but it is used by it."
+    "description": ":bulb: If you're using **`4.x.x`**, you have to manually install `electron` since this is not a dependency of `electroner` anymore, but it is used by it."
   },
   "dependencies": {
     "oargv": "^3.4.1",
