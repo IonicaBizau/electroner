@@ -7,11 +7,12 @@
 
 > Start ElectronJS apps from Node.js.
 
-:bulb: If you're using **`3.x.x`**, you have to manually install `electron-prebuilt` since this is not a dependency of `electroner` anymore, but it is used by it.
+:bulb: If you're using **`4.x.x`**, you have to manually install `electron` since the previous peer dependency on the module name of `electron-prebuilt` used in **`3.x.x`** has been deprecated.
 
 ## :cloud: Installation
 
 ```sh
+$ npm i --save electron
 $ npm i --save electroner
 ```
 
