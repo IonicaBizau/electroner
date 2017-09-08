@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Starts the Electron process.
 
 #### Params
+
 - **Object** `options`: The path to the main script or an object interpreted by [`oargv`](https://github.com/IonicaBizau/node-oargv) and optional fields:
 
  - `cwd` (String): An optional key representing directory where the electron
