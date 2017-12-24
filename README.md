@@ -14,7 +14,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save electroner
+# Using npm
+npm install --save electroner
+
+# Using yarn
+yarn add electroner
 ```
 
 
