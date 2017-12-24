@@ -40,7 +40,9 @@ There are few ways to get help:
 
  1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
  2. For bug reports and feature requests, open issues. :bug:
+
  3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
+
 
 
 ## :memo: Documentation
@@ -89,7 +91,7 @@ If you are using this library in one of your projects, add it in this list. :spa
 
 
  - [`hey-you`](https://github.com/zacanger/hey-you#readme) (by Zac Anger)—hey, you
- - [`instagram-chat`](https://github.com/nemanjan00/instagram-chat#readme) (by nemanjan00)—Instagram Chat Application
+ - [`instagram-chat`](https://npmjs.com/package/instagram-chat) (by nemanjan00)—Instagram Chat Application
  - [`photon-browser`](https://github.com/IonicaBizau/photon-browser#readme)—A tiny web browser based on Photon and Electron.
  - [`simple-cam`](https://github.com/zacanger/simple-cam#readme) (by Zac Anger)—Very simple webcam viewer for desktop.
 
