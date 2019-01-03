@@ -1,6 +1,6 @@
 {
   "name": "electroner",
-  "version": "4.0.7",
+  "version": "4.0.8",
   "description": "Start ElectronJS apps from Node.js.",
   "main": "lib/index.js",
   "directories": {
